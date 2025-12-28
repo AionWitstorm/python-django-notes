@@ -25,3 +25,5 @@ print(isinstance(x, object))  # True
 ```
 
 - **Companies using Python**: Google, YouTube, NASA, IBM, Spotify, Dropbox, Instagram, Reddit
+
+Next: [Features of Python](02-features.md)

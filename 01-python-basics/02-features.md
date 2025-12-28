@@ -20,3 +20,5 @@ Syntax is also influenced by **C and ABC** languages.
 - Machine Learning & AI → `scikit-learn`, `tensorflow`  
 - IoT → `MicroPython`, Raspberry Pi  
 - Microservices
+
+Next: [Installing Python and VS Code](03-installation.md)

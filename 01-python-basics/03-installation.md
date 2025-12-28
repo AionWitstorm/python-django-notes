@@ -14,3 +14,5 @@ python3 --version
    * Python (Microsoft)
    * Pylance
    * Jupyter (if needed)
+
+Next: [Python Flavours & Versions](04-flavours-and-versions.md)

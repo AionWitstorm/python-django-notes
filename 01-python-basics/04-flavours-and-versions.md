@@ -32,3 +32,5 @@
 | 3.0     | 2008 | Breaking changes from 2.x, current major version |
 
 > **Note:** Future Python 4.0 updates will likely be minor and backward-compatible.
+
+[Go to README](../README.md)
