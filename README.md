@@ -19,3 +19,4 @@ This repository contains structured notes from my learning journey:
 - [Features](01-python-basics/02-features.md)
 - [Installation](01-python-basics/03-installation.md)
 - [Flavours & Versions](01-python-basics/04-flavours-and-versions.md)
+- [Identifies & Keywords](01-python-basics/05-identifiers-and-keywords.md)

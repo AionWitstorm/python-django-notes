@@ -33,4 +33,4 @@
 
 > **Note:** Future Python 4.0 updates will likely be minor and backward-compatible.
 
-[Go to README](../README.md)
+Next: [Python Identifies & Keywords](05-identifiers-and-keywords.md)
