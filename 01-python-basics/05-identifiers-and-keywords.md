@@ -163,4 +163,4 @@ print(keyword.kwlist)
 * `nonlocal` → introduced in **Python 3.0**
   * Used in nested functions (closures)
 
-[Go to README](../README.md)
+Next: [Python Data types & Number systems](06-data-types.md)
