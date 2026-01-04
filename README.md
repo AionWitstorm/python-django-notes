@@ -21,3 +21,4 @@ This repository contains structured notes from my learning journey:
 - [Flavours & Versions](01-python-basics/04-flavours-and-versions.md)
 - [Identifies & Keywords](01-python-basics/05-identifiers-and-keywords.md)
 - [Data types & Number systems](01-python-basics/06-data-types.md)
+- [Complex, Boolean, String, Type Casting & Immutability in Python](01-python-basics/07-complex-bool-string-type-casting-immutability.md)

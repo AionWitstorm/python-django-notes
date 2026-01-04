@@ -222,4 +222,4 @@ a = 0b1.1
 a = 0o1.1
 a = 0x1.1
 ```
-[Go to README](../README.md)
+Next: [Complex, Boolean, String, Type Casting & Immutability in Python](07-complex-bool-string-type-casting-immutability.md)
