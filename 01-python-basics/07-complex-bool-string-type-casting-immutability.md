@@ -403,4 +403,4 @@ print(a is b)   # True
 ---
 
 
-Next: [Go to README](../README.md)
+Next: [Immutability vs Mutability in Python](08-collections-and-mutability.md)
